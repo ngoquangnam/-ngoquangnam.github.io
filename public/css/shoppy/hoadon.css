@@ -1,0 +1,17 @@
+.hoadon{
+	margin-top: 50px;
+}
+.table-info tr
+{
+     border: 1px solid #2fdab8 !important; 
+}
+.td-info{
+  border-bottom: 1px solid #2fdab8 !important; 
+  text-align: left;
+}
+.hoadon-left{
+	border: 1px solid #2fdab8 !important; 
+}
+li{
+	list-style-type: none;
+}
